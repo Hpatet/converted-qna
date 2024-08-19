@@ -1,0 +1,481 @@
+{
+    "faqs": [
+        {
+            "question": "How does technology affect Mphasis's services?",
+            "answer": "At Mphasis, engineering is in our DNA®. We lead with design and architecture to deliver a portfolio of next-generation offerings and services that blend our deep domain expertise with cutting-edge technology. Our domain contextualized offerings are embedded in deep tech and we are powered forward by the Mphasis Tribes and Squads model. Our cross-functional teams are focused on evolving our next-generation offerings. The Mphasis Way of engagement helps us build and scale faster. This enables us to bring the 'T' back into IT, with T standing not just for technology, but also for transformation combined with a strong understanding of your business domain. Guided by the MphasisFront2BackTMapproach, we create hyper-personalized experiences and drive customer-centric transformation.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does technology affect Mphasis's services?",
+            "responseType": "message"
+        },
+        {
+            "question": "What new innovations has Mphasis come up with?",
+            "answer": "Mphasis.ai, our new business unit focusses on transforming organizations globally by unlocking the potential of Artificial Intelligence. We empower businesses to responsibly leverage the best of AI, drive growth and sharpen their competitive edge. Mphasis patented AI solutions with our ‘platform-and-solution’ approach enables enterprises to increase productivity, reduce time-to-market and while driving innovation of the Contact Center, IT Operations, Business Operations and Experience.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What new innovations has Mphasis come up with?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis use cloud technology?",
+            "answer": "Mphasis adopts a customer-in view to transform enterprises using our industry-specific X2C2TMframework, which utilizes the power of cloud and cognitive to provide hyper-personalized digital experiences to clients and end customers.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis use cloud technology?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis drive digital transformation?",
+            "answer": "Mphasis Service Transformation solutions offer an integrated approach to enable enterprises to achieve scalable, digital, future-ready operations.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis drive digital transformation?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis approach product engineering?",
+            "answer": "Mphasis' purpose is to be the \"Driver in Driverless Car\" for Global Enterprises by applying next-generation design, architecture and engineering services, to deliver scalable and sustainable software and technology solutions.SEE MORE",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis approach product engineering?",
+            "responseType": "message"
+        },
+        {
+            "question": "What enterprise solutions does Mphasis offer?",
+            "answer": "In recent years, adoption of Kubernetes has steadily accelerated within the enterprise space, from smaller startup groups creating net-new microservices to the most prominent global technology companies undergoing application modernization and replatforming efforts.Know MoreKnow more",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What enterprise solutions does Mphasis offer?",
+            "responseType": "message"
+        },
+        {
+            "question": "What applications does Mphasis develop?",
+            "answer": "In recent years, adoption of Kubernetes has steadily accelerated within the enterprise space, from smaller startup groups creating net-new microservices to the most prominent global technology companies undergoing application modernization and replatforming efforts.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What applications does Mphasis develop?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis maintain compliance?",
+            "answer": "How to streamline compliance to both US FDA and EU MDR",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis maintain compliance?",
+            "responseType": "message"
+        },
+        {
+            "question": "What product engineering services does Mphasis provide?",
+            "answer": "Labels are an integral part of any product delivery. Labels provide the branding, promotion, information on usage, safety, contact, other compliance and regulatory content.Packaging products in many industries like pharmaceuticals, healthcare devices, chemicals, food, etc., are heavily regulated.Know MoreKnow more",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What product engineering services does Mphasis provide?",
+            "responseType": "message"
+        },
+        {
+            "question": "What delivery models does Mphasis use?",
+            "answer": "Labels are an integral part of any product delivery. Labels provide the branding, promotion, information on usage, safety, contact, other compliance and regulatory content.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What delivery models does Mphasis use?",
+            "responseType": "message"
+        },
+        {
+            "question": "What healthcare solutions does Mphasis provide?",
+            "answer": "Packaging products in many industries like pharmaceuticals, healthcare devices, chemicals, food, etc., are heavily regulated.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What healthcare solutions does Mphasis provide?",
+            "responseType": "message"
+        },
+        {
+            "question": "What customer experience solutions does Mphasis offer?",
+            "answer": "Driving operational excellence and unrivaled stakeholder experience across insurance value chain",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What customer experience solutions does Mphasis offer?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis incorporate AI in its solutions?",
+            "answer": "With technological advancements insurers, re-Insurers, brokers and TPAs are under pressure to improve profitability, adapt new systems, streamline operations, increase return on capital, and accelerate value from mergers and acquisitions. To remain competitive and relevant, insurers must offer cost-effective operations, concentrate on risk prevention services using health & wellness data, AI/ML & IoT sensors, and create an ecosystem for profitable risk management.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis incorporate AI in its solutions?",
+            "responseType": "message"
+        },
+        {
+            "question": "What services does Mphasis offer?",
+            "answer": "Mphasis blends domain expertise with core and emerging technological know-how to drive value for demanding insurance clients across Life, Annuity & Benefits, P&C, Specialty and Brokerage. Our solution-led approach, coupled with our proprietary tools, accelerators, and framework, ensures on-time, on-budget platform implementation and fulfils downstream service requirements cost-effectively. Through ourFront2Back™approach we create hyper-personalized experiences and drive customer-centric transformation.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What services does Mphasis offer?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis handle data and insights?",
+            "answer": "Our offerings enable brokers and producers to improve and sustain growth enabling holistic, simplified, and cost-efficient operations through a seamless integration of data, digital and innovation.READ MOREREAD MORE",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis handle data and insights?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis handle integration?",
+            "answer": "Our offerings enable brokers and producers to improve and sustain growth enabling holistic, simplified, and cost-efficient operations through a seamless integration of data, digital and innovation.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis handle integration?",
+            "responseType": "message"
+        },
+        {
+            "question": "What digital transformation services does Mphasis offer?",
+            "answer": "Mphasis Specialty Insurance Services provides managed service offerings powered by Digital, Analytics, AI, and Automation to deliver transformation and value creation.READ MOREREAD MORE",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What digital transformation services does Mphasis offer?",
+            "responseType": "message"
+        },
+        {
+            "question": "What solutions does Mphasis provide?",
+            "answer": "An end-to end insurance Policy Administration System. It is a multi-language, multi-currency solution that can be deployed ‘on premise’ or ‘on cloud’. It enables end-to-end functional value chain from Quotes to Claims across a broad range of Life and Health Insurance products such as Life, Disability, Accident, Critical Illness, Hospital Indemnity, Cancer, Dental, Vision among others.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What solutions does Mphasis provide?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis improve customer experience?",
+            "answer": "A patented, omnichannel, digital 360-degree solution that generates customer 360-degree insights by correlating data from multiple internal and external customer touchpoints and open data. It is a cloud-based solution that incorporates in-depth domain expertise and is flexible and customizable.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis improve customer experience?",
+            "responseType": "message"
+        },
+        {
+            "question": "What platforms does Mphasis offer?",
+            "answer": "A patented, cognitive intelligence platform, enabling enterprises to gain faster and more effective access to insights from data. Powered by state-of-the-art algorithms in machine learning, neural networks, deep learning, natural language processing, and more, DeepInsights™ redefines every aspect of inferencing and decision-making.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What platforms does Mphasis offer?",
+            "responseType": "message"
+        },
+        {
+            "question": "What are the latest developments at Mphasis?",
+            "answer": "An AI based chatbot development platform, built using Microsoft AI and popular opensource technologies to enable enterprises design, build, establish and deploy chatbots in an easy manner. CG empowers enterprises to reimagine the user interact with the enterprise systems & business processes by enabling intelligent conversational experiences.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What are the latest developments at Mphasis?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis support the insurance sector?",
+            "answer": "4000+ insurance experts in process, technology and back-office service across Americas, UK, Continental Europe, and Asia",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis support the insurance sector?",
+            "responseType": "message"
+        },
+        {
+            "question": "What automation solutions does Mphasis provide?",
+            "answer": "Strong product engineering capabilities to enable workflow integrations and cognitive automation and the development of a multi-channel digital engagement platform(XaaP)to enable personalized experiences",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What automation solutions does Mphasis provide?",
+            "responseType": "message"
+        },
+        {
+            "question": "What analytics solutions does Mphasis provide?",
+            "answer": "A cost-effective solution that allows monitoring multiple performance analytics, reporting, and other widgets on a single screen in real time. With useful metrics and trend charts, it provides the necessary information to make informed decisions. The tool has been extended for projects monitored on Azure DevOps, where projects can be tracked with details of Epic and User stories.KNOW MOREKnow More",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What analytics solutions does Mphasis provide?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis enhance performance?",
+            "answer": "A cost-effective solution that allows monitoring multiple performance analytics, reporting, and other widgets on a single screen in real time. With useful metrics and trend charts, it provides the necessary information to make informed decisions. The tool has been extended for projects monitored on Azure DevOps, where projects can be tracked with details of Epic and User stories.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis enhance performance?",
+            "responseType": "message"
+        },
+        {
+            "question": "What management solutions does Mphasis provide?",
+            "answer": "Metadata management on a Hadoop Eco-System",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What management solutions does Mphasis provide?",
+            "responseType": "message"
+        },
+        {
+            "question": "What strategies does Mphasis employ?",
+            "answer": "Successful SAP implementation strategy",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What strategies does Mphasis employ?",
+            "responseType": "message"
+        },
+        {
+            "question": "What is Mphasis's approach to innovation?",
+            "answer": "A successful approach to implement Enterprise Automated Regression Testing \"e-ART\"",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What is Mphasis's approach to innovation?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis ensure agile service delivery?",
+            "answer": "Sophisticated yet flexible engagement model that evolves as the network growsIndustry-leading program and project management with deep agile expertiseProven transition playbooks and methodologies",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis ensure agile service delivery?",
+            "responseType": "message"
+        },
+        {
+            "question": "What consulting services does Mphasis provide?",
+            "answer": "We design solutions custom-made to our clients’ objectives, budgets, and the pace of change required by them. Our blueprint-driven and proprietary consulting methodology ‘Define, Diagnose, Design and Deliver and Transform’ is strongly supported by focused toolkits.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What consulting services does Mphasis provide?",
+            "responseType": "message"
+        },
+        {
+            "question": "What insights does Mphasis offer?",
+            "answer": "Our customized transformation solutions and services are powered by data, digital, cloud and next - gen technologies. We deploy the MphasisFront2Back™approach to enhance end customer experience without changing the core. Our seamless ‘information-to-insight’ journeys leverage data to understand customers intimately and deliver hyper-personalized experiences.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What insights does Mphasis offer?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis improve efficiency?",
+            "answer": "We understand that each organization has individual goals, challenges and outcomes they need to achieve. Our NextOps applies the power of our integrated ‘Tech & Ops’ to design solutions that meet specific needs and boost efficiency and customer experience. Be it integration and collaboration through business process automation, or insights-driven decisions through analytics, or enhanced productivity through cloud services, our digital transformation levers enhance end-customer experience and co-create value.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis improve efficiency?",
+            "responseType": "message"
+        },
+        {
+            "question": "What optimization services does Mphasis offer?",
+            "answer": "We combine digital innovation, operational optimization, and a best-in-class fintech ecosystem to create customer experiences that keep pace with the transformation in the retail banking landscape.KNOW MOREKnow More",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What optimization services does Mphasis offer?",
+            "responseType": "message"
+        },
+        {
+            "question": "What solutions does Mphasis offer for the banking industry?",
+            "answer": "We combine digital innovation, operational optimization, and a best-in-class fintech ecosystem to create customer experiences that keep pace with the transformation in the retail banking landscape.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What solutions does Mphasis offer for the banking industry?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis use intelligence in its services?",
+            "answer": "Mphasis Next Gen Contact Center (NGCC) transforms customer interaction into an intelligent ‘AI-first’ operations. Integrating the best of human and machine intelligence, NGCC leverages AI, analytics and automation technologies to provide unified experiences to customers, high work satisfaction to agents and winning outcomes for businesses.KNOW MOREKnow More",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis use intelligence in its services?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis use machine learning?",
+            "answer": "Mphasis’ expertise in next-generation AI and machine learning can help accelerate your business processes through cognitive computing",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis use machine learning?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis ensure cybersecurity?",
+            "answer": "Mphasis Cyber Defense Services offers real-time monitoring of employees' behavior to identify and capitalize on \"teachable moments.\" We provide personalized training to improve cybersecurity awareness and behavior, ensuring the secure functioning of your organization and keeping your organization safe from cybercriminals.KNOW MOREKnow More",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis ensure cybersecurity?",
+            "responseType": "message"
+        },
+        {
+            "question": "What frameworks does Mphasis use?",
+            "answer": "Developed security policies and framework and ensured a mature security posture with risk remediation.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What frameworks does Mphasis use?",
+            "responseType": "message"
+        },
+        {
+            "question": "What improvements has Mphasis made in its services?",
+            "answer": "Optimized infrastructure security for an American multinational home improvement retail corporation",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What improvements has Mphasis made in its services?",
+            "responseType": "message"
+        },
+        {
+            "question": "What is the Mphasis Front2Back approach?",
+            "answer": "Using its industry-specific X2C2™ framework and Front2Back™ transformation approach, Mphasis adopts a value chain/customer-in view to transform enterprise cyber security services",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What is the Mphasis Front2Back approach?",
+            "responseType": "message"
+        },
+        {
+            "question": "What services does Mphasis provide for the manufacturing sector?",
+            "answer": "Medusa is known for opportunistically targeting a wide range of industries such as high technology, education, manufacturing, healthcare, and retail.READ MORE…",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What services does Mphasis provide for the manufacturing sector?",
+            "responseType": "message"
+        },
+        {
+            "question": "What lean principles does Mphasis follow?",
+            "answer": "Mphasis brings opinionated views on how to organize to handle work in modern enterprise. Utilizing lean and agile concepts in a comprehensive model to promote flow, ownership, and scalability in organizations.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What lean principles does Mphasis follow?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis ensure quality?",
+            "answer": "Our ZeroQA approach seeks to improve quality by moving from a quality assurance to a quality engineering approach where quality is built in.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis ensure quality?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis implement microservices in its solutions?",
+            "answer": "We drive relevant innovation and transformation using aFront2BackTMapproach. Our digital technologies use key business KPIs to drive rapid innovation in how enterprises serve end clients. We use proven mobile-enabled,DevOpsand microservices-oriented architecture coupled with agile development to assist enterprises in achieving rapid return on investment (ROI) and superior engagement.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis implement microservices in its solutions?",
+            "responseType": "message"
+        },
+        {
+            "question": "What KPIs does Mphasis focus on in its digital strategies?",
+            "answer": "Digital technologies use key business KPIs to drive rapid innovation in how enterprises serve end clients.KNOW MOREKnow more",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What KPIs does Mphasis focus on in its digital strategies?",
+            "responseType": "message"
+        },
+        {
+            "question": "What is the Mphasis NextSTEP platform?",
+            "answer": "NextSTEP™is a unified, next-generation platform that enables transformation of services at reduced cost, top quality and improved efficiency.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What is the Mphasis NextSTEP platform?",
+            "responseType": "message"
+        },
+        {
+            "question": "What does it mean to be customer-centric at Mphasis?",
+            "answer": "Our expertise in enterprise data and application modernization enables enterprises to realize powerful value from Google Cloud Platform to drive customer-centric experience, topline growth, operational efficiency, and business model innovation.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What does it mean to be customer-centric at Mphasis?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis break down data silos?",
+            "answer": "We invested in the development of an automation platform, developed blueprints to transform 1200+ applications on to cloud native private cloud environment (PCF Tanzu), and enabled secure migration of petabytes of on-prem data silos to GCP.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis break down data silos?",
+            "responseType": "message"
+        },
+        {
+            "question": "What role does cognitive intelligence play in Mphasis's services?",
+            "answer": "A patented, cognitive intelligence platform, DeepInsights™ enables enterprises to gain faster and more effective access to insights from data, redefining every aspect of inferencing and decision making. It enables enterprises to engage with their customers through personalized experiences and explore newer business models that leverage the potential of anywhere, anytime, on any device computing capabilities.KNOW MOREKnow More",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What role does cognitive intelligence play in Mphasis's services?",
+            "responseType": "message"
+        },
+        {
+            "question": "What energy solutions does Mphasis offer?",
+            "answer": "Quantum computing enables building systems which include richer data handling and processing elements, as compared to the ones currently being used by traditional computing systems. Mphasis is at the forefront in using quantum computers for machine learning, optimization and simulation problems. Mphasis EON (Energy Optimized Network) is a patent pending, classical-quantum hybrid network, consisting of energy optimization, quantum circuit and deep neural network layers.KNOW MOREKnow More",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What energy solutions does Mphasis offer?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis serve the communications industry?",
+            "answer": "Mphasis EDI capabilities span across industry verticals—healthcare, communications, energy, finance, manufacturing, and transportation and includes a wide range of solutions, products, and accelerators.KNOW MOREKnow More",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis serve the communications industry?",
+            "responseType": "message"
+        },
+        {
+            "question": "What is hyper-personalization at Mphasis?",
+            "answer": "When it comes to customer interaction experiences, hyper-personalization to satisfy individualized preferences and speed of response are critical elements. Interactions must be easy, seamless and fast. Traditional contact centers, however, suffer from unintelligent routing, poor text to voice capabilities, limited integration and fewer choices – and above all, being people dependent.Mphasis Next Gen Contact Center (NGCC) is an intelligent solution that transforms customer interaction into an intelligent ‘AI-first’ Contact Center. Integrating the best of human and machine intelligence, NGCC leverages the best of AI, analytics and automation technologies to provide unified experiences to customers, high work satisfaction to agents and winning outcomes for businesses.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "What is hyper-personalization at Mphasis?",
+            "responseType": "message"
+        },
+        {
+            "question": "How does Mphasis reduce the total cost of ownership for its clients?",
+            "answer": "Our Microsoft Cyber Security Solutions are based on some cardinal principles – Tech-based, Focused on prevention using Threat Intelligence & Automation, Swift Response harnessing the power of AI/ML and other Newgen tech, to deliver high levels of assurance and committed outcomes at a lower total cost of ownership. Our solutions are ready-to-secure hybrid environments that empower our clients on their multi-cloud journeys.",
+            "terms": [],
+            "alternateQuestions": [],
+            "referenceId": "referenceId",
+            "label": "How does Mphasis reduce the total cost of ownership for its clients?",
+            "responseType": "message"
+        }
+    ]
+}
